@@ -58,8 +58,7 @@ footer {
 }
 
 {
-
-    "total_pessoas_conectadas": 5.04e9,
+  "total_pessoas_conectadas": 5.04e9,
 
   "tempo_medio": 2.38,
 
@@ -67,3 +66,23 @@ footer {
 
 }
 
+.graficos-container_texto {
+    font-size: 1.3rem;
+    text-align: center;
+    padding: 2rem;
+    border: var(--secondary-color) solid 2px;
+  }
+  
+  span {
+    font-weight: bold;
+    color: var(--secondary-color);
+   }
+
+   {
+    "Facebook": 3049,
+    "Youtube": 2491,
+    "WhatsApp": 2000,
+    "Instagram": 2000,
+    "Tiktok": 1562,
+    "WeChat":1336
+}
